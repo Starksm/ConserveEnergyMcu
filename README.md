@@ -11,3 +11,14 @@ According to the survey, it was noted that a lot of energy is being wasted every
 
 The Approach:
 We assume that in an organization, there is a wifi network from which the employees of that organization are connected to. They use it constantly to send emails, surf internet and a lot of different work. But with every device they use, they expose it's MAC Address to that wifi that can be read to know who is still connected to the wifi and who is not. If a person is having a phone connected to the wifi, that would mean that the person is still in the building unless the person leaves his phone accidentally but that is so rare these days. And if a person leaves the building, his/her device will no longer be attached to the wifi. This cancept can be used to control the main power supply of individual person's cabin as well as the entire building. 
+
+
+Hardware Requird: 
+1.Node MCU
+2.Arduino
+
+Software Required:
+1. Arduino IDE installed
+2. Node-Red installed in the server computer
+3. Mosquitto installed
+
